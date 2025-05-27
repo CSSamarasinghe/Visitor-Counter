@@ -1,0 +1,29 @@
+{
+  "name": "visitor-counter",
+  "version": "1.0.0",
+  "description": "A simple, reusable visitor counter component for Next.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSSamarasinghe/Visitor-Counter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CSSamarasinghe/Visitor-Counter/issues"
+  },
+  "homepage": "https://github.com/CSSamarasinghe/Visitor-Counter#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
